@@ -1,6 +1,6 @@
 # AI Achievement Diaries
 
-A list of tasks tasks categorized by difficult that help a player learn AI tools and software.
+A list of tasks tasks categorized by difficulty that help a player learn AI tools and software.
 
 ### Table of contents
 - [Easy Tasks](#easy-tasks)
