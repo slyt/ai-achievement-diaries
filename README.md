@@ -10,11 +10,30 @@ A list of tasks tasks categorized by difficulty that help a player learn AI tool
 
 ## Easy Tasks
 
-- [ ] Watch an introductory video or read an article about the basics of artificial intelligence and machine learning. For example, [How AIs, like ChatGPT, Learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo).
+- [ ] Watch an introductory video or read an article about the basics of artificial intelligence and machine learning. For example, [How AIs, like ChatGPT, Learn - CGP Grey](https://www.youtube.com/watch?v=R9OHn5ZF4Uo).
+- [ ] Watch a video about NERF (Neural Radiance Fields). For example, [Why THIS is the Future of Imagery (and Nobody Knows it Yet) - Corridor Crew](https://www.youtube.com/watch?v=YX5AoaWrowY)
 - [ ] Complete an online tutorial on a beginner-friendly AI programming language like Python or TensorFlow.
 - [ ] Explore and experiment with a beginner-friendly AI tool or framework, such as Google's Teachable Machine or Microsoft's Azure Cognitive Services.
 - [ ] Join an online community or forum dedicated to AI and participate in discussions or ask questions to gain insights and learn from others.
 - [ ] Follow an AI-related blog or YouTube channel and regularly read or watch educational content to stay updated on the latest trends and advancements in the field.
+    
+    Youtube Channels
+    - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos): What a time to be alive!
+    - [Code Bullet](https://www.youtube.com/c/CodeBullet/videos): Just an idiot with a computer science degree trying his best.
+    - [Computerphile](https://www.youtube.com/user/Computerphile): Videos all about computers and computer stuff. Sister channel of Numberphile.
+    - [Numberphile](https://www.youtube.com/user/numberphile): Videos about numbers and mathematics.
+    - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): 3Blue1Brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.
+    - [CGP Grey](https://www.youtube.com/c/CGPGrey/videos): Youtube educator.
+    - [Corridor Crew](https://www.youtube.com/c/CorridorCrew/videos): Visual effects studio.
+
+    Twitter:
+    - [Andrew Ng](https://twitter.com/AndrewYNg): Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain.
+    - [Yann LeCun](https://twitter.com/ylecun): Professor at NYU. Chief AI Scientist at Meta. Researcher in AI, Machine Learning, Robotics, etc. ACM Turing Award Laureate.
+    - [Ian Goodfellow](https://twitter.com/goodfellow_ian): Research Scientist at DeepMind. Inventor of GANs. Lead author of http://deeplearningbook.org
+    - [François Chollet](https://twitter.com/fchollet): Deep learning @google. Creator of Keras. Author of 'Deep Learning with Python'.
+    - [Jeff Dean](https://twitter.com/jeffdean): Chief Scientist, Google DeepMind and Google Research. Co-designer/implementor of software systems like @TensorFlow, MapReduce, Bigtable, Spanner, ...
+    - [Fei-Fei Li](https://twitter.com/drfeifei): Prof (CS @Stanford), Co-Director @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare
+    
 
 ## Medium Tasks
 
